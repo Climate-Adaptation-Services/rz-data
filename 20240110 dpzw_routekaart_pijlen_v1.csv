@@ -1,8 +1,9 @@
 pijlID;prodID;vanprocID;naarprocID;type;tweekanten
 pijl01;prod04;proc04;proc06;Bespreken per regio;nee
-pijl03;prod06;proc06;proc08;Data uitwisseling;nee
-pijl04;prod07;proc07;proc08;Bespreken per regio;nee
-pijl05;prod10;proc10;proc12;Bespreken per regio;nee
-pijl06;prod11;proc11;proc12;Bespreken per regio;nee
-pijl07;prod12;proc12;proc13;Bespreken per regio;nee
-pijl08;prod13;proc13;proc14;Data uitwisseling;nee
+pijl02;prod06;proc06;proc07;Bespreken plenair;ja
+pijl03;prod07;proc06;proc09;Bespreken plenair;nee
+pijl04;prod08;proc08;proc09;Bespreken plenair;nee
+pijl05;prod11;proc11;proc13;Bespreken per regio;nee
+pijl06;prod12;proc12;proc13;Bespreken plenair;nee
+pijl07;prod13;proc12;proc13;Bespreken per regio;nee
+pijl08;prod14;proc13;proc14;Data uitwisseling;nee
