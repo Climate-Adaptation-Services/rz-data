@@ -1,17 +1,18 @@
 prodID;Volledige omschrijving;Datum;Weblink;procID
-prod01;Leidraad factsheets;2024-05-15;;proc01
-prod02;Beoordelingscriteria;2024-02-15;https://www.deltaprogramma.nl/themas/zoetwater/publicaties;proc02
-prod03;Oefening ontwikkelpadenkaarten;2023-12-31;;proc03
-prod04;Landelijke knelputenanalyse;2024-09-15;;proc04
-prod05;Sociaaleconomische analyse (nulalternatief);2025-03-31;;proc05
-prod06;Beschrijving van mogelijke maatregelen (tussenproduct);2024-10-15;;proc06
-prod07;Beschrijving van mogelijke maatregelen (eindproduct);2024-12-31;;proc06
-prod08;Schatting kosten en effecten van mogelijke maatregelen;2025-06-30;;proc08
-prod09;Validatie kosten en effecten van mogelijke maatregelen;2025-09-30;;proc09
-prod10;Sociaaleconomische analyse (individuele maatregelen);2025-12-31;;proc10
-prod11;Beleidsalternatieven;2026-01-15;;proc11
-prod12;Ontwikkelpadenkaarten (tussenproduct);2025-03-01;;proc12
-prod13;Ontwikkelpadenkaarten (eindproduct);2026-01-15;;proc12
-prod14;Voorkeurspakket met ontwikkelpadenkaart (concept);2026-06-30;;proc13
-prod15;Voorkeurspakket met ontwikkelpadenkaart (definitief);2026-09-30;;proc13
-prod16;Sociaaleconomische analyse (maatregelpakketten);2026-12-31;;proc14
+prod01;Leidraad factsheets (concept);2024-09-11;https://www.deltaprogramma.nl/themas/documenten/publicaties/2023/09/11/leidraad-factsheets-deltaprogramma-zoetwater-concept;proc01
+prod02;Leidraad factsheets (definitief);2024-05-15;;proc01
+prod03;Beoordelingscriteria;2024-02-15;;proc02
+prod04;Oefening ontwikkelpadenkaarten;2023-12-31;https://www.deltaprogramma.nl/themas/documenten/publicaties/2023/12/27/oefening-ontwikkelpaden-deltaprogramma-zoetwater;proc03
+prod05;Landelijke knelputenanalyse;2024-09-15;;proc04
+prod06;Sociaaleconomische analyse (nulalternatief);2025-03-31;;proc05
+prod07;Beschrijving van mogelijke maatregelen (tussenproduct);2024-10-15;;proc06
+prod08;Beschrijving van mogelijke maatregelen (eindproduct);2024-12-31;;proc06
+prod09;Schatting kosten en effecten van mogelijke maatregelen;2025-06-30;;proc08
+prod10;Validatie kosten en effecten van mogelijke maatregelen;2025-09-30;;proc09
+prod11;Sociaaleconomische analyse (individuele maatregelen);2025-12-31;;proc10
+prod12;Beleidsalternatieven;2026-01-15;;proc11
+prod13;Ontwikkelpadenkaarten (tussenproduct);2025-03-01;;proc12
+prod14;Ontwikkelpadenkaarten (eindproduct);2026-01-15;;proc12
+prod15;Voorkeurspakket met ontwikkelpadenkaart (concept);2026-06-30;;proc13
+prod16;Voorkeurspakket met ontwikkelpadenkaart (definitief);2026-09-30;;proc13
+prod17;Sociaaleconomische analyse (maatregelpakketten);2026-12-31;;proc14
