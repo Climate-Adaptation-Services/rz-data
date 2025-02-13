@@ -1,7 +1,7 @@
 prodID;Volledige omschrijving;Datum;Weblink;procID
-prod01;Gevoeligheidsanalyse bufferzones Hoge Zandgronden;2023-09-08;;proc01
-prod02;Watervraagreductie veenweidegebied;2023-09-22;;proc01
-prod03;Verkenning zoetwaterbouwstenen IJsselmeergebied;2023-10-30;;proc01
+prod01;Gevoeligheidsanalyse bufferzones Hoge Zandgronden;2023-09-08;https://www.deltaprogramma.nl/themas/documenten/publicaties/2023/09/08/effectiviteit-van-bufferzones-voor-grondwaterstandsverhoging-in-grondwaterafhankelijke-natuurgebieden-op-de-zandgronden;proc01
+prod02;Watervraagreductie veenweidegebied;2023-09-19;https://www.deltaprogramma.nl/themas/documenten/publicaties/2023/09/19/potentie-van-watervraagreductie-in-het-veengebied;proc01
+prod03;Verkenning zoetwaterbouwstenen IJsselmeergebied;2023-10-18;https://www.deltaprogramma.nl/themas/documenten/publicaties/2023/10/18/zoetwaterbouwstenen-ijsselmeer-verkenning-hydrologische-effectiviteit-zoetwater;proc01
 prod04;Leidraad factsheets (concept);2023-09-11;https://www.deltaprogramma.nl/themas/documenten/publicaties/2023/09/11/leidraad-factsheets-deltaprogramma-zoetwater-concept;proc02
 prod05;Leidraad factsheets (definitief);2024-07-15;;proc02
 prod06;Vergelijkingsinstrument DPZW;2024-02-15;;proc03
@@ -15,7 +15,7 @@ prod13;Schatting kosten en effecten van mogelijke maatregelen;2025-06-30;;proc09
 prod14;Validatie kosten en effecten van mogelijke maatregelen;2025-09-30;;proc10
 prod15;Sociaaleconomische analyse (individuele maatregelen);2025-12-31;;proc11
 prod16;Beleidsalternatieven;2026-01-15;;proc12
-prod17;Hoekpunten zoetwaterstrategie;2024-09-15;;proc13
+prod17;Hoekpunten zoetwaterstrategie;2024-09-15;https://www.deltaprogramma.nl/themas/documenten/publicaties/2025/01/16/houtskoolschetsen-hoekpunten-zoetwaterstrategieen;proc13
 prod18;Ontwikkelpadenkaarten (tussenproduct);2025-03-01;;proc13
 prod19;Ontwikkelpadenkaarten (eindproduct);2026-01-15;;proc13
 prod20;Voorkeurspakket met ontwikkelpadenkaart (concept);2026-06-30;;proc14
